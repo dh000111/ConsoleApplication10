@@ -8,7 +8,6 @@ int main()
 	int* back = &arr[6];
 
 	int a = 0;
-	
 
 	for (int i = 0; i <= 2; i++)
 	{
